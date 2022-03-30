@@ -1,0 +1,18 @@
+{
+  "name": "eshop-backend",
+  "version": "1.0.0",
+  "description": "Eshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "eshop"
+  ],
+  "author": "upgrad",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.4.1"
+  }
+}
